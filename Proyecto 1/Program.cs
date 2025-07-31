@@ -63,7 +63,6 @@ namespace CalculadoraTablasDeVerdad
             lista.Sort();
             return lista;
         }
-
         static List<string> ObtenerSubExpresiones(string expr)
         {
             List<string> subs = new List<string>();
@@ -84,7 +83,6 @@ namespace CalculadoraTablasDeVerdad
                 subs.Add(expr);
             return subs;
         }
-
         static string ReemplazarVariables(string expr, Dictionary<char, bool> valores)
         {
             string resultado = expr;
@@ -92,7 +90,6 @@ namespace CalculadoraTablasDeVerdad
                 resultado = resultado.Replace(kvp.Key.ToString(), kvp.Value ? "1" : "0");
             return resultado;
         }
-
         static bool EvaluarExpresion(string expr)
         {
             while (expr.Contains("("))
@@ -105,7 +102,6 @@ namespace CalculadoraTablasDeVerdad
             }
             return Evaluar(expr);
         }
-
         static bool Evaluar(string expr)
         {
             expr = Regex.Replace(expr, @"!\s*1", "0");
