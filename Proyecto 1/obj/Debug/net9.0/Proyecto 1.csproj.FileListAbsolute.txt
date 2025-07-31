@@ -12,3 +12,4 @@ C:\Users\WINPRO11\Desktop\URL\2-2025\Lenguajes formales y autómatas\proyecto 1\
 C:\Users\WINPRO11\Desktop\URL\2-2025\Lenguajes formales y autómatas\proyecto 1\Proyecto 1\obj\Debug\net9.0\Proyecto 1.pdb
 C:\Users\WINPRO11\Desktop\URL\2-2025\Lenguajes formales y autómatas\proyecto 1\Proyecto 1\obj\Debug\net9.0\Proyecto 1.genruntimeconfig.cache
 C:\Users\WINPRO11\Desktop\URL\2-2025\Lenguajes formales y autómatas\proyecto 1\Proyecto 1\obj\Debug\net9.0\ref\Proyecto 1.dll
+C:\Users\WINPRO11\Desktop\URL\2-2025\Lenguajes formales y autómatas\proyecto 1\Proyecto 1\obj\Debug\net9.0\Proyecto 1.sourcelink.json
